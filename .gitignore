@@ -3,3 +3,7 @@
 ################################################################################
 
 /BootCampSolution/BC.Api/BC.Api.csproj.user
+/BootCampSolution/BC.Api/bin/Debug/net6.0
+/BootCampSolution/BC.Api/Migrations
+/BootCampSolution/BC.Api/obj
+/BootCampSolution/.vs/BootCampSolution
